@@ -1,0 +1,22 @@
+$primary-color-aplication: #000000;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: $primary-color-aplication;
+}
+
+@mixin flexCenter($justify_content) {
+  display: flex;
+  justify-content: $justify_content;
+  align-items: center;
+}
+
+body {
+  @include flexCenter(end);
+
+  div {
+    background-color: blue($color: #000000);
+  }
+}
