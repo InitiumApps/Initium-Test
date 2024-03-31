@@ -11,6 +11,7 @@ export default function Filter() {
                 <option value="vectorsAndMatrices">Vetores e matrizes</option>
                 <option value="subprograms">Subprogramas</option>
                 <option value="recursion">Recursividade</option>
+                <option value="pointers">Ponteiros</option>
             </select>
 
             <select name="numberQuestions" id="numberQuestions">
