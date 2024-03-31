@@ -10,9 +10,12 @@
     div {
         svg {
             cursor: pointer;
+            color: #FFFFFF;
             padding: 8px;
-            background-color: #FFFFFF;
+            border-color: #FFFFFF;
+            border-width: 1px;
             border-radius: 20%;
+            border-style: solid;
             width: 40px;
             height: 40px;
             transition: all .3s;
