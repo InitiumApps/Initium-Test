@@ -4,10 +4,8 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     background-image: linear-gradient(to right, #1B1644, #101010);
+    p {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
 }
-
-.header > p {
-    font-size: 1.5em;
-    font-weight: bold;
-}
-
