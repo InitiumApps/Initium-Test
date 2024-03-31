@@ -1,4 +1,7 @@
-.filters > select {
-    padding: 5px;
-    border-radius: 5px;
+.filters{
+    select {
+        padding: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
 }
