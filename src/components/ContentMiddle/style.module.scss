@@ -3,8 +3,7 @@
 .contentMiddle {
     grid-area: contentMiddle;
     color: $font-default-color;
-}
-
-.contentMiddle > h1 {
-    font-size: 2.3em;
+    h1 {
+        font-size: 2.3em;
+    }
 }

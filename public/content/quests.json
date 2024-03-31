@@ -1,0 +1,584 @@
+[
+    {
+        "id": 1,
+        "content": "Escreva um programa que leia três números inteiros e calcule a sua média aritmética.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 2,
+        "content": "Escreva um programa que leia três números e seus respectivos pesos e calcule a sua média ponderada.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 3,
+        "content": "Escreva um programa que leia o valor do lado de um quadrado e calcule a sua área e o seu perímetro.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 4,
+        "content": "Escreva um programa que leia o número inteiro positivo e calcule o seu dobro, o seu triplo, o seu quadrado, o seu cubo e a sua raiz quadrada.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 5,
+        "content": "Escreva um programa que leia o valor do raio de uma circunferência e calcule a sua área e o seu comprimento.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 6,
+        "content": "Escreva um programa que leia um número inteiro e informe o seu antecessor e o seu sucessor.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 7,
+        "content": "Escreva um programa que leia o valor da base e da altura de um triângulo e calcule a q a sua área.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 8,
+        "content": "Escreva um programa que leia o valor de uma temperatura em Celsius e calcule o seu valor correspondente em Fahrenheit e em Kelvin.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 9,
+        "content": "Escreva um programa que leia o valor de uma distância percorrida em km e o tempo gasto em horas e calcule a velocidade média em m/s.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 10,
+        "content": "Escreva um programa que leia o valor dos dois catetos de um triângulo retângulo e calcule o valor da hipotenusa.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 11,
+        "content": "Escreva um programa que leia um valor em real, a cotação atual do dólar e calcule o valor informado pelo usuário em dólares.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 12,
+        "content": "Escreva um programa que leia um valor em polegadas e o converta para centímetros, considerando que uma polegada equivale a 2.54 cm.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 13,
+        "content": "Escreva um programa que leia um valor em KB e calcule o seu valor correspondente em bits, bytes, MB e GB.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 14,
+        "content": "Escreva um programa que leia uma palavra e calcule o seu comprimento.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 15,
+        "content": "Escreva um programa que leia uma palavra e um número inteiro k e identifique a k-ésima letra da palavra informada pelo usuário.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 16,
+        "content": "Escreva um programa que leia uma letra minúscula e imprima a sua letra maiúscula correspondente.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 17,
+        "content": "Escreva um programa que leia a área de uma casa e o valor cobrado por um arquiteto por cada metro quadrado de um projeto arquitetônico e calcule o custo final do projeto.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 18,
+        "content": "Escreva um programa que leia o valor do seno de um ângulo e calcule o valor do seu cosseno.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 19,
+        "content": "Escreva um programa que leia os valores de dois ângulos internos de um triângulo e calcule o valor do terceiro ângulo.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 20,
+        "content": "Em uma determinada cidade, cada m2 de um terreno está avaliado em R$ 300,00. Escreva um programa que leia o comprimento e a largura de um terreno localizado nesta cidade e calcule o seu valor de mercado.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 21,
+        "content": "Escreva um programa que leia o preço de produção de um determinado produto e a margem de lucro desejada pelo fabricante e calcule qual deve ser o seu preço de venda.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 22,
+        "content": "Escreva um programa que leia dois números inteiros a e b e determine o maior múltiplo de a que é menor ou igual a b. Por exemplo, o maior múltiplo de 3 menor ou igual a 50 é 48.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 23,
+        "content": "Escreva um programa que leia o valor do raio de uma esfera e determine o seu volume.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 24,
+        "content": "Escreva um programa que leia o termo inicial e a razão de uma progressão aritmética e imprima os 5 primeiros termos desta progressão.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 25,
+        "content": "Escreva um programa que leia um número inteiro N e imprima dos 10 primeiros elementos da sua tabuada. A saída do programa deve seguir o formato abaixo, que mostra os 5 primeiros elementos da tabuada do 2.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 26,
+        "content": "Escreva um programa que leia o peso e a altura dos atletas das quatro duplas que vão participar de um torneio de vôlei de praia e calcule o peso e a altura média de cada dupla e o peso e a altura média de todos os jogadores do torneio.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 27,
+        "content": "Escreva um programa que leia o comprimento e a largura de uma cisterna e a quantidade de litros que o usuário deseja armazenar na mesma e determine quantos metros ele deve encher a cisterna para obter a quantidade de litros desejada.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 28,
+        "content": "Uma loja oferece três formas de pagamento para os seus clientes. Caso a compra seja paga à vista, a loja oferece um desconto de 10%. Caso a compra seja paga em três parcelas no cartão de crédito, o cliente paga o preço original (sem descontos, mas sem juros) da compra. Caso a compra seja paga em dez parcelas no cartão de crédito, a loja acrescenta uma taxa de juros de 20% sobre o valor da compra. Todas as dez parcelas têm exatamente o mesmo valor. Com base nessas informações, escreva um programa que leia o valor da compra de um cliente e informe: o valor da compra se ela for paga à vista, o valor de cada parcela se a compra for paga no cartão e em três parcelas (por exemplo, 3 parcelas de R$ 50,00) e o valor de cada parcela se a compra for paga com o cartão de crédito e em dez parcelas.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 29,
+        "content": "Escreva um programa que leia o número total de questões existentes em uma prova e o número de questões que um candidato acertou e determine o seu percentual de acertos e o seu percentual de erros.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 30,
+        "content": "Escreva um programa que leia os valores das coordenadas X e Y e dois pontos P e Q e determine a distância entre estes dois pontos. A distância entre dois pontos pode ser determinada através da distância euclidiana.",
+        "level": "easy",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 31,
+        "content": "Em um determinado concurso público, para cada questão que um candidato acerta ele ganha 5 pontos, para cada questão que ele erra ele perde 3 pontos e para cada questão que ele deixa em branco ele não ganha e nem perde pontos. Escreva um programa que leia o número de questões que um candidato acertou, o número de questões que ele errou e o número de questões que ele deixou em branco e determine a sua pontuação final.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 32,
+        "content": "O carro de João consegue percorrer em média 14 km consumindo 1 litro de combustível. Escreva um programa que leia o valor da distância que João vai percorrer durante uma viagem e o preço atual de um litro de combustível e calcule quanto ele deverá gastar com combustível durante a viagem.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 33,
+        "content": "Escreva um programa que leia o nome e a quantidade de votos recebidos por cada um dos três candidatos a prefeito de uma cidade e calcule o percentual de votos recebidos por cada candidato. Para resolver este programa, considere que não houve votos brancos e nem nulos.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 34,
+        "content": "Escreva um programa que leia o dia do mês em que o cliente fez uma compra e o prazo de entrega dado pelo vendedor e calcule o dia do mês (atual ou dos meses seguintes) em que o cliente deve receber o produto. Para resolver este programa, considere que cada mês tem exatamente 30 dias.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 35,
+        "content": "Escreva um programa que leia o valor de uma distância em metros e calcule o seu valor correspondente em quilômetros, hectômetros, decâmetros, centímetros, decímetros e milímetros.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 36,
+        "content": "Escreva um programa que leia dois números inteiros e os armazene em duas variáveis a e b. Após a leitura, o programa deve permutar os valores armazenados nas duas variáveis. O programa deve imprimir os valores das duas variáveis antes e após a permutação.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 37,
+        "content": "Escreva um programa que leia um número positivo entre 1 e 9999 e calcule o valor da unidade de milhar, da centena, da dezena e da unidade.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 38,
+        "content": "Escreva um programa que leia um valor em segundos e converta para a forma X horas Y minutos e Z segundos. Por exemplo, o valor 3670 equivale a 1 hora 1 minutos e 10 segundos.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 39,
+        "content": "Escreva um programa que leia o tamanho de um arquivo em MB e a taxa de transmissão da rede em KB/s e calcule o tempo aproximado necessário para a transmissão do arquivo. A resposta deve ser dada através de uma mensagem na forma X horas, Y minutos e Z segundos.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 40,
+        "content": "Escreva um programa que leia o valor total que um cliente consumiu em um restaurante e determine o valor final da sua conta, considerando que o restaurante cobra uma taxa de serviço de 10 % e uma taxa de couvert artístico de R$ 10,00.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 41,
+        "content": "Escreva um programa que leia a quantidade de horas trabalhadas por um funcionário de uma empresa durante um mês e o valor de cada hora trabalhada e determine o seu pagamento. O programa deve considerar que a carga-horária mensal do funcionário é de 160 horas e que o valor de cada hora extra corresponde ao valor da hora trabalhada acrescido de uma taxa de 50%. Para resolver a questão, considere que a quantidade de horas trabalhadas nunca será inferior a 160.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 42,
+        "content": "Escreva um programa que leia o peso e a altura de uma pessoa e determine o seu índice de massa corporal.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 43,
+        "content": "Escreva um programa que leia o preço atual de uma ação e o seu preço anterior e calcule a sua variação em termos percentuais. Por exemplo, se o preço atual for R$ 10,00 e o preço anterior era R$ 5,00 a variação foi de 100%.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 44,
+        "content": "Escreva um programa que leia individualmente os valores dos quatro dígitos de um valor em binário e calcule o seu valor correspondente em decimal.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 45,
+        "content": "Escreva um programa que leia os dois últimos valores da leitura de um medidor de energia em KWh e calcule o valor da conta de energia, considerando que: o preço de 1 KWh é R$ 0,35, o valor da ICMS corresponde à 17% do valor do consumo e a taxa de iluminação pública é de R$ 15,00.",
+        "level": "medium",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 46,
+        "content": "Escreva um programa que leia um número inteiro entre 0 e 999 e calcule o seu reverso. Você deve sempre considerar que o número lido tem três algarismos. Desta forma, o reverso de 195 deve ser 591, o de 768 deve ser 867, de 3 deve ser 300, o de 40 deve ser 40, o de 500 deve ser 5, e assim sucessivamente. O programa deve armazenar o valor do reverso em uma variável antes de exibi-lo para o usuário.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 47,
+        "content": "Um banco está realizando uma grande promoção em seus financiamentos. Ele financia qualquer valor em 5 prestações. O valor da primeira prestação corresponde à 20% do valor do empréstimo. Os valores das demais prestações correspondem ao valor da parcela anterior acrescido de uma taxa de juros de 7%. Com base nestas informações, escreva um programa que leia o valor a ser financiado por um cliente e calcule: o valor de cada prestação, o valor total que o cliente vai pagar pelo empréstimo e o total de juros que o cliente vai pagar pelo empréstimo.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 48,
+        "content": "Uma financeira está oferecendo uma nova modalidade de empréstimo para os seus clientes. Nesta modalidade, o cliente pode pagar o valor financiado em até 120 parcelas, todas as parcelas com o mesmo valor. O valor de cada parcela corresponde ao valor do empréstimo dividido pelo número de parcelas, mais uma taxa de 4% sobre o valor total financiado. Com base nestas informações, escreva um programa que leia um valor a ser financiado pelo cliente e o número de parcelas desejadas e calcule o valor de cada parcela e o valor total que o cliente pagará pelo empréstimo.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 49,
+        "content": "Uma revendedora de veículos resolveu fazer uma promoção em seus veículos. Nesta revendedora, o preço de um veículo é calculado através do seu preço de compra, mais uma taxa de 20% de IPI, 17% de ICMS e uma margem de lucro de 20%. Nesta promoção, a revendedora resolveu tirar o valor do IPI. Com base nestas informações, escreva um programa que leia o preço atual de um veículo e calcule qual deve ser o seu preço na promoção.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 50,
+        "content": "Ana chegou a um consultório médico para uma consulta de rotina. Neste consultório, o médico atende os seus pacientes de acordo com a ordem em que eles chegaram (cada paciente recebe uma senha com o número da sua ordem de chegada) e cada consulta demora exatamente 25 minutos. Com base nestas informações, escreva um programa que leia um número inteiro correspondendo à hora e outro correspondendo aos minutos em que Ana chegou ao consultório e o número da senha que ela recebeu e determine a hora em que ela será atendida. Para isso, considere que ela chegou ao consultório no exato momento em que o médico ia atender o paciente que recebeu a senha 1.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 51,
+        "content": "Carlos chegou ao aeroporto para fazer o check-in do seu vôo. Ao entrar na fila de passageiros, ele percebeu que a empresa aérea tinha 5 guichês para fazer o check-in dos passageiros, e que estes guichês eram numerados de 1 a 5. Considerando que os guichês iam começar a realização dos check-ins no exato momento em que Carlos entrou na fila, e que cada check-in é realizado em exatamente 15 minutos, escreva um programa que leia um número inteiro positivo que corresponde à posição de Carlos na fila e determine o número do guichê no qual ele será atendido e o tempo que ele vai ter que esperar para ser atendido.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 52,
+        "content": "Um provedor de internet oferece um plano promocional para os seus clientes. Neste plano, ele paga uma mensalidade de R$ 80,00 e pode acessar até 100 GB de dados. Caso a quantidade de dados acessados seja superior a este limite, ele deve pagar uma taxa adicional de R$ 5,00 por cada GB extra acessado. Com base nestas informações, escreva um programa que leia a quantidade de dados acessados pelo cliente durante um mês (em GB) e calcule o valor da sua conta, considerando que esta quantidade nunca é inferior a 100 GB.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 53,
+        "content": "Escreva um programa que leia o mês e o ano em que um preso começará a cumprir a sua pena e o tamanho da pena (em número de anos e número de meses, por exemplo, 18 anos e 5 meses) e determine o mês e o ano em que ele terminará de cumprir a sua pena. Para resolver esta questão, considere que o ano será sempre maior ou igual a 2000.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 54,
+        "content": "Seu Joaquim é um motorista que viaja todos os dias de Cajazeiras para João Pessoa para fazer entregas para empresa na qual trabalha. Durante o percurso, ele para realizar entregas em Sousa, Patos, Campina Grande e João Pessoa. Considerando que seu Joaquim gasta 50 minutos no percurso de Cajazeiras para Sousa, 2 horas no percurso entre Sousa e Patos, 2 horas e 30 minutos no percurso entre Patos e Campina Grande e 2 horas no percurso entre Campina Grande e João Pessoa, e que cada entrega demora exatamente 20 minutos, escreva um programa que leia o horário em que seu Joaquim saiu de Cajazeiras (horas e minutos) e calcule o horário em que ele chegará em cada cidade do itinerário.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 55,
+        "content": "Lázaro está muito feliz por ter enfim conseguido construir a sua casa própria. Sabendo-se que a construção durou 180 dias de trabalho, escreva um programa que leia o número de pedreiros que trabalhavam na obra, o número de ajudantes e o valor da diária do pedreiro e calcule quanto Lázaro gastou com mão de obra. Para resolver este programa, considere que todos os pedreiros e ajudantes trabalharam todos os dias da obra e que o valor da diária de cada ajudante corresponde à metade do valor da diária do pedreiro.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 56,
+        "content": "A Cifra de César é um método de criptografia em que cada letra da mensagem original é substituída por outra e a distância entre cada letra original e a sua substituta na mensagem enviada é sempre a mesma. Por exemplo, se a letra a da mensagem é substituída pela letra f na mensagem enviada, então a letra b será substituída pelo g, o c pelo h, o d pelo i e assim sucessivamente, até que a letra y será substituída pelo d e o z pela letra e. Com base nestas informações, escreva um programa que leia um caractere representando uma das letras da mensagem original, outro caractere representando a letra que vai substituí-lo na nova mensagem, e um terceiro caractere representando outra letra da mensagem original e determine a letra que vai substituí-la na nova mensagem.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+    {
+        "id": 57,
+        "content": "Escreva um programa que leia o valor de uma passagem em reais e em milhas e, em seguida, leia o valor da passagem (em reais) que Caio deseja comprar e calcule quantas milhas ele precisa juntar para que ele não precise pagar pela passagem. Para resolver este programa, considere que a proporção entre o valor da milha e o valor em reais é a mesma para todos os vôos da companhia aérea.",
+        "level": "hard",
+        "subject": "inputAndOutput"
+    },
+        {
+            "id": 58,
+            "content": "Escreva um programa que leia um número inteiro e verifique se ele é par ou ímpar.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 59,
+            "content": "Escreva um programa que leia dois números e determine se o segundo número é menor, igual ou maior que o primeiro.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 60,
+            "content": "Escreva um programa que leia o número de pessoas que vão participar de um churrasco e calcule quantos quilos de carne devem ser comprados. Para isso, considere que cada pessoa consome 250 g de carne.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 61,
+            "content": "Escreva um programa que leia um número inteiro e determine o seu valor absoluto. O valor absoluto deve ser calculado sem o uso de qualquer função oferecida pela linguagem.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 62,
+            "content": "Escreva um programa que leia dois números inteiros M e N e verifique se N é múltiplo de M.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 63,
+            "content": "Escreva um programa que leia o número de gols marcados pelo time da casa e o número de gols marcado pelo time visitante e verifique se o jogo foi vencido pelo time da casa, pelo time visitante ou se terminou empatado.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 64,
+            "content": "Escreva um programa que leia um número inteiro e verifique se ele é positivo, negativo ou neutro.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 65,
+            "content": "Escreva um programa que leia a idade de uma pessoa e verifique se ela é criança (0-12 anos), adolescente (13-17 anos), adulta (18-59) ou idosa (acima de 60 anos).",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 66,
+            "content": "Escreva um programa que leia o número de pessoas que vão participar de um churrasco e calcule quantos quilos de carne devem ser comprados. Para isso, considere que cada pessoa consome 250 g de carne. A resposta do programa deve ser um número inteiro.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 67,
+            "content": "Escreva um programa que leia o valor de um ano e verifique se ele é ou não bissexto. Um ano é bissexto se ele for divisível por quatrocentos ou se se ele for divisível por 4 mas não for divisível por 100.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 68,
+            "content": "Escreva um programa que leia o valor do salário bruto de um empregado e calcule o seu salário líquido. Para calcular o valor do salário líquido, deve-se primeiramente descontar uma taxa de 11%, correspondente ao valor da contribuição previdenciária. Depois, do valor restante, deve-se descontar o valor do imposto de renda, que varia de acordo com o valor do salário. O percentual que deve ser descontado para o imposto de renda varia de acordo com a tabela abaixo.",
+            "level": "easy",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 69,
+            "content": "Escreva um programa que leia as coordenadas x e y de um ponto e verifique a quantidade de quadrantes a que este ponto pertence.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 70,
+            "content": "Escreva um programa que leia os valores dos três lados de um triângulo e o classifique como equilátero, isósceles ou escaleno.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 71,
+            "content": "Escreva um programa que leia três números inteiros distintos e identifique o maior número lido.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 72,
+            "content": "João resolveu poupar dinheiro para comprar um carro. Para isso, ele decidiu que todo mês irá poupar 25% do seu salário, até conseguir juntar um bom valor para ser dado como entrada. Com base nestas informações, escreva um programa que receba como entrada o valor do salário atual de João e o valor que ele deseja juntar como entrada e calcule quanto tempo ele terá que trabalhar para conseguir juntar o valor desejado. A resposta deve ser dada na forma x anos e y meses.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 73,
+            "content": "Escreva um programa que leia três números inteiros distintos e identifique o maior e o menor número lido.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 74,
+            "content": "Escreva um programa que leia três números distintos e identifique o número que não é nem o menor e nem o maior número.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 75,
+            "content": "Escreva um programa que leia os valores dos três ângulos internos de um triângulo e verifique se o mesmo é um triângulo retângulo.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 76,
+            "content": "Escreva um programa que leia as coordenadas x e y de um ponto e verifique a qual quadrante este ponto pertence. Você pode supor que o ponto digitado pelo usuário pertence a apenas um quadrante.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 77,
+            "content": "Escreva um programa que leia as coordenadas x e y de um ponto e verifique se este ponto pertence à reta y = 2x +1.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 78,
+            "content": "Alfredo tem um carro flex e sempre fica na dúvida se é melhor abastecê-lo com álcool ou gasolina. Um dia um de seus amigos o ensinou a seguinte dica: 'Pegue o valor do preço da gasolina e multiplique por 0,7. Se o valor for menor ou igual ao valor do preço do álcool, abasteça com gasolina. Caso contrário, abasteça com álcool.' Com base nestas informações, escreva um programa que leia o preço do litro da gasolina e do álcool e verifique se é melhor abastecer com álcool ou com gasolina.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 79,
+            "content": "Escreva um programa que leia os coeficientes a, b e c de uma equação do 2o grau e verifique a quantidade de raízes reais da equação.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 80,
+            "content": "Escreva um programa que leia os coeficientes a, b e c de uma equação do 2o grau e calcule todas as suas raízes reais.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 81,
+            "content": "Escreva um programa que leia os valores das coordenadas x e y do centro de uma circunferência e o valor do seu raio e, a seguir, leia as coordenadas x e y de um ponto e verifique se este ponto está localizado dentro da circunferência.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 82,
+            "content": "Escreva um programa que leia as três notas de um aluno e verifique se o mesmo está aprovado por média, se fará prova final ou se está reprovado por média. Caso o aluno tenha que fazer a prova final, o programa deve informar quanto ele terá que tirar na prova. Você pode considerar que a média mínima para a aprovação por média é 7 e que a média mínima para fazer a prova final é 4. O cálculo da prova final é calculado através da fórmula abaixo.\n\nProvaFinal = 25 - MediaParcial / 3",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 83,
+            "content": "Escreva um programa que leia um número inteiro entre 1 e 10 e imprima o número lido por extenso.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 84,
+            "content": "Escreva um programa que leia o peso e a altura de uma pessoa e verifique se ela está dentro da faixa de peso adequada, ou se está abaixo ou acima do peso. Caso a pessoa esteja fora do peso adequado o programa deve informar quantos Kg ela deve ganhar ou perder para ficar dentro da faixa adequada. Para resolver este programa, considere que o IMC ideal para uma pessoa deve estar entre 18 e 25.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 85,
+            "content": "Escreva um programa que leia dois operandos inteiros e um operador (+, -, *, /) e aplique o operador lido aos dois operandos, na ordem em que os mesmos foram digitados.",
+            "level": "medium",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 86,
+            "content": "Escreva um programa que leia um caractere e verifique se o mesmo é uma letra maiúscula, uma letra minúscula, um numeral ou nenhum dos tipos anteriores.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 87,
+            "content": "Escreva um programa que leia um caractere correspondente ao estado civil de uma pessoa e imprima o estado civil informado por extenso. As opções para o estado civil são: S (solteiro), C (casado), D (divorciado) e V (viúvo).",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 88,
+            "content": "Escreva um programa que leia um único número entre 10000 e 99999 referente ao número de um deputado estadual e identifique o partido pelo qual ele está concorrendo. O número do partido pode ser identificado pelos dois primeiros algarismos do número do candidato. Por exemplo, um candidato com número 13457 concorre pelo PT, que é o partido de número 13, enquanto que um candidato com número 45879 concorre pelo PSDB, que é o partido de número 45. Neste programa, considere os seguintes números de partido: 13 (PT), 14 (PTB), 15 (PMDB), 25 (DEM), 45 (PSDB) e 65( PCdoB).",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 89,
+            "content": "Escreva um programa que leia um número inteiro entre 1 e 999 e calcule o seu valor correspondente em algarismos romanos.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 90,
+            "content": "Escreva um programa que leia um número inteiro entre 1 e 12 correspondente a um mês do ano e verifique o trimestre a que este mês pertence.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 91,
+            "content": "Escreva um programa que leia o valor de um mês e de um ano e verifique a quantidade de dias do mês informado pelo usuário.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 92,
+            "content": "Escreva um programa que leia um verbo regular no infinitivo (da 1a, 2a ou 3a conjugação) e imprima a sua conjugação no presente, pretérito perfeito e futuro do presente do modo indicativo.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 93,
+            "content": "Escreva um programa em que leia um número inteiro entre 1000 e 9999 e verifique se o número lido é ou não um palíndromo.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 94,
+            "content": "Escreva um programa que leia um valor inteiro a ser sacado pelo usuário e identifique quantas cédulas de cada tipo devem ser usadas para que o saque seja efetuado. Você pode supor que o caixa tem cédulas de R$ 10,00, R$ 20,00, R$ 50,00 e R$ 100,00. O valor máximo de um saque é R$ 1000,00 e, para cada saque, deve-se priorizar o uso das cédulas maiores.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 95,
+            "content": "Escreva um programa que leia quatro números reais e verifique se eles formam, na ordem em que foram digitados, uma progressão aritmética, uma progressão geométrica, os dois tipos de progressão ou nenhum tipo de progressão.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 96,
+            "content": "Escreva um programa que leia cinco números inteiros e determine o segundo maior número digitado pelo usuário e a ordem em que o mesmo foi digitado.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        },
+        {
+            "id": 97,
+            "content": "Escreva um programa que leia as horas, os minutos e o fuso horário e converta o horário lido para o fuso horário informado. O fuso horário deve ser informado como um número inteiro. Caso o valor seja positivo, o programa deve considerar que o fuso horário digitado é maior do que o atual. Caso o valor seja negativo, o programa deve considerar que o fuso horário é menor do que o atual. Caso o valor seja 0, o programa deve considerar que o fuso horário é o mesmo do atual. A resposta do programa deve ser dada no formato hh:mm hs. Por exemplo, se o horário lido foi 10 h e 30 min e o fuso horário for 4, a resposta do programa deve ser 14:30 hs. Por outro lado, se o horário lido foi 10 h e30 min e o fuso horário for -4, a resposta do programa deve ser 06:30 hs. Se o horário lido for 22 h e 30 min e o fuso-horário for 3, a resposta deve ser 01:30 hs. Se o horário lido for 2 h e 30 min e o fuso horário for -3, a resposta deve ser 23:30 hs. O horário referente à meia-noite deve ser representado da forma 00:00 hs.",
+            "level": "hard",
+            "subject": "conditionalBranches"
+        }
+]
