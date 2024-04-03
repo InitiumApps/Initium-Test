@@ -1,4 +1,4 @@
-[
+const quests = [
     {
         "id": 1,
         "content": "Escreva um programa que leia três números inteiros e calcule a sua média aritmética.",
@@ -1344,3 +1344,5 @@
             "subject": "pointers"
         }
 ]
+
+export default quests;
