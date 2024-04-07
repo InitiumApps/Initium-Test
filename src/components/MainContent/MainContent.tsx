@@ -1,22 +1,22 @@
 import Filter from "../Filters/Filter";
 import TagTest from "../TagTest/TagTest";
 import style from "./style.module.scss";
-import { useEffect, useState } from "react";
-
-import { selectQuestionToRender } from "@/pages/service/selectContent"
-
-selectQuestionToRender();
+import QuestComponent from "./questComponent/QuestComponent";
+import { useState } from "react";
+import getQuest from "@/pages/service/getQuests"
 
 export default function MainContent(props: any) {
     //props
-    const [subject, setSubject] = useState<string>("");
-    const [numberQuestions, setNumberQuestions] = useState<string>("");
-    const [dificulty, setdificulty] = useState<string>("");
-    const [observer, setObserver] = useState<boolean>(false);
+    const [subject, setSubject] = useState<string>("inputAndOutput");
+    const [numberQuestions, setNumberQuestions] = useState<number>(1);
+    const [dificulty, setdificulty] = useState<string>("easy");
+    const [questToShow, setQuestToShow] = useState<any>([]);
 
     //observer to activate event (useEffect) in TagTest
-    const handleClickFilterButton = () => {
-        setObserver(observer ? false : true);
+    const handleClickFilterButton = async () => {
+        const questionsSelected = await getQuest(subject, dificulty, numberQuestions);
+
+        setQuestToShow(questionsSelected);
     }
 
     return (
@@ -27,7 +27,23 @@ export default function MainContent(props: any) {
 
             <button onClick={handleClickFilterButton} className="rounded-md w-[100px] text-white font-bold p-1">Filtrar</button>
 
-            <TagTest subject={subject} numberQuestions={numberQuestions} dificulty={dificulty} observer={observer}/>
+            <TagTest>
+                {
+                    questToShow.length == 0 ? 
+                    (<p className="text-center" >As questões aparecerão aqui</p>) 
+                    : 
+                    (
+                        <div>
+                            {
+                                questToShow.map((question: any) => {
+                                    return <QuestComponent key={question.id} question={question}/>
+                                })
+                            }
+                        </div>
+                    )
+                }
+
+            </TagTest>
         </section>
     );
 }

@@ -2,30 +2,19 @@ import { useEffect, useState } from "react";
 import HeaderTagText from "./headerTagTest/HeaderTagTest";
 import style from "./style.module.scss";
 
-export default function TagTest(props: any) {
-    const [questionsToShow, setQuestionsToShow] = useState([]);
+type typeTag = {
+    children: any
+}
 
-    useEffect(() => {
-        console.log("Botão sendo chamado em TagTest");
-    }, [props.observer])
+export default function TagTest( {children}: typeTag ) {
 
     return(
-        <section className={`bg-white w-[65%] m-auto h-full p-16 mt-5 max-w-[750px]`}>
+        <section className={`bg-white w-[65%] m-auto h-full p-16 mt-5 max-w-[750px] min-h-[500px]`}>
             <HeaderTagText />
     
-            <div className="mt-16">
-                {
-                    questionsToShow.length == 0 ? (
-                        <p className="text-center">As questões aparecerão aqui</p>
-                    ) : (
-                        questionsToShow.map(item => {
-                            return (
-                                <p key={2}>Nao zero</p>
-                            );
-                        })
-                    )
-                }
-            </div>
+            <section className="mt-16">
+                {children}
+            </section>
         </section>
     );
 }

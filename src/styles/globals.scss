@@ -9,7 +9,7 @@
 #__next {
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 80px 350px 900px 180px;
+    grid-template-rows: 80px 350px auto 180px;
     grid-template-areas: "Header"
                         "contentMiddle"
                         "mainContent"
