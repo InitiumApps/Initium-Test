@@ -3,7 +3,7 @@ import TagTest from "../TagTest/TagTest";
 import style from "./style.module.scss";
 import QuestComponent from "./questComponent/QuestComponent";
 import { useState } from "react";
-import getQuest from "@/pages/service/getQuests"
+import getQuest from "@/service/getQuests"
 
 export default function MainContent(props: any) {
     //props
