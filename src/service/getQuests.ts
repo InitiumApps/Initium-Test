@@ -1,7 +1,8 @@
+import quests from "../../public/content/quests";
+
 export default async function selectQuestionToRender(subject: string, level: string, numberQuests: number) {
     try {
-        const response = await fetch("/api/getContentApi");
-        const questsContent = await response.json();
+        const questsContent = quests
         const questions: any[] = [];
         const validIds: any[] = [];
 
