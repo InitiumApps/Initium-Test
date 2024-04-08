@@ -1,10 +1,9 @@
-import { cookies } from "next/headers";
-
 export default async function selectQuestionToRender(subject: string, level: string, numberQuests: number) {
     try {
         const response = await fetch("/api/getContentApi");
         const questsContent = await response.json();
-        const questions = [];
+        const questions: any[] = [];
+        const validIds: any[] = [];
 
         //receber como parametros o nivel e conteudo
         const filteredQuests = questsContent.filter((question: any) => {
@@ -12,9 +11,15 @@ export default async function selectQuestionToRender(subject: string, level: str
         })
         
         for(let cont = 0; cont < numberQuests; cont++) {
-             const number = Math.floor(Math.random() * (filteredQuests.length));
+            let number: number = 0
 
-             questions.push(filteredQuests[number]);
+            do {
+                number = Math.floor(Math.random() * (filteredQuests.length));
+            } while (validIds.includes(number));
+
+            validIds.push(number);
+
+            questions.push(filteredQuests[number]);
         }
 
         return questions
