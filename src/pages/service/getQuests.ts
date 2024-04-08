@@ -9,6 +9,8 @@ export default async function selectQuestionToRender(subject: string, level: str
         const filteredQuests = questsContent.filter((question: any) => {
             return question.subject === subject && question.level === level 
         })
+
+        numberQuests = numberQuests > filteredQuests.length ? filteredQuests.length : numberQuests;
         
         for(let cont = 0; cont < numberQuests; cont++) {
             let number: number = 0

@@ -10,7 +10,7 @@ export default function Filter(props: any) {
                 <select value={props.subject} onChange={(e) => props.setSubject(e.target.value)} name="subjectFilter" id="subjectFilter">
                     <option value="inputAndOutput">Entrada e saída</option>
                     <option value="conditionalBranches">Desvios condicionais</option>
-                    <option value="repeatComands">Comandos de repetição</option>
+                    <option value="repeatCommands">Comandos de repetição</option>
                     <option value="vectorsAndMatrices">Vetores e matrizes</option>
                     <option value="subprograms">Subprogramas</option>
                     <option value="recursion">Recursividade</option>
